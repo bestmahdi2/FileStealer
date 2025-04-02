@@ -1,4 +1,4 @@
-# FileStealerUSB2PC_C
+# FileStealer
 
 * Cross-Platform Considerations
   - [ ] Identify Windows & Linux Differences
