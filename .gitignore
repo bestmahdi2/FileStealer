@@ -1,3 +1,9 @@
+#binary outputs
+output/*
+
+#log file
+log.txt
+
 # Prerequisites
 *.d
 
