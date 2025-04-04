@@ -30,3 +30,8 @@
 
 * Documentation
   - [ ] Add Comprehensive Documentation & Comments
+ 
+* Naming Convention
+  - [ ] Struct: PascalCase
+  - [ ] Variable & Func: camelCase
+  - [ ] Const & define: UPPER_CASE
